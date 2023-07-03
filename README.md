@@ -10,22 +10,22 @@ Berikut alur penjelasan skrip tersebut:
 Dimana pemrosesan gambar akan dilakukan dengan OpenCV.
 
 - Membuka Gambar
-Dimana gambar diproses dengan nama file ".jpg".
+Dimana gambar diproses dengan nama file "objek_Anugrah AK._202131037.jpg".
 
 - Konversi Gambar ke Grayscale
-Menjadi nilai keabuan ketika setiap piksel dari nilai intensitas warna pada citra pada file ".jpg".
+Menjadi nilai keabuan ketika setiap piksel dari nilai intensitas warna pada citra pada file "objek_Anugrah AK._202131037.jpg".
 
 - Ambang Batas Gambar
-Suatu citra mengdasar pada terang gelap, dimana background dan objek didalam citra gambar yang terpisah pada file ".jpg". Ini akan membantu menemukan contour didalam citra gambar.
+Suatu citra mengdasar pada terang gelap, dimana background dan objek didalam citra gambar yang terpisah pada file "objek_Anugrah AK._202131037.jpg". Ini akan membantu menemukan contour didalam citra gambar.
 
 - Menemukan Contour
-Ketika sudah melakukan ambang batas gambar dan konversi gambar ke grayscale, untuk melakukan penemuan contour bisa dilakukan dari file ".jpg".
+Ketika sudah melakukan ambang batas gambar dan konversi gambar ke grayscale, untuk melakukan penemuan contour bisa dilakukan dari file "objek_Anugrah AK._202131037.jpg".
 
 - Gambar Contour
-Lalu, ketika selesai melakukan penemuan contour, konversi gambar ke grayscale dan juga melakukan pada ambang batas gambar, maka pada piksel terhadap intensitasnya yang berhubungan dengan titik-titik, akan melakukan gambaran contour pada citra gambar dari file ".jpg".
+Lalu, ketika selesai melakukan penemuan contour, konversi gambar ke grayscale dan juga melakukan pada ambang batas gambar, maka pada piksel terhadap intensitasnya yang berhubungan dengan titik-titik, akan melakukan gambaran contour pada citra gambar dari file "objek_Anugrah AK._202131037.jpg".
 
 - Menampilkan Gambar
-Hasil akhir dari proses citra asli ke penemuan contour. Citra asli yang berasal dari file dengan nama ".jpg".
+Hasil akhir dari proses citra asli ke penemuan contour. Citra asli yang berasal dari file dengan nama "objek_Anugrah AK._202131037.jpg".
 
 ## Dokumentasi
 
