@@ -2,7 +2,15 @@
 ## Deteksi Bentuk Gambar Menggunakan Contour
 Countor, terjadinya pada piksel terhadap intensitasnya yang berhubungan dengan titik-titik terhadap citra gambar yang digunakan.
 
-Ini projek skrip pemrograman pada bahasa python, dimana sebuah citra gambar akan dideteksi bentuk gambar menggunakan Contour.
+Ini projek skrip pemrograman pada bahasa python terhadap library OpenCV, dimana sebuah citra gambar akan dideteksi bentuk gambar menggunakan Contour.
+
+Penjelasan Penyelesaian Contour di Skrip:
+
+- Konversi citra menjadi citra biner. Hal ini dapat dilakukan dengan menggunakan teknik thresholding atau edge detection.
+
+- Temukan kontur pada gambar biner menggunakan fungsi cv2.findContours(). Fungsi ini mengambil gambar biner sebagai masukan dan mengembalikan daftar kontur.
+
+-  Menggambar kontur pada gambar asli menggunakan fungsi cv2.drawContours(). Fungsi ini mengambil gambar asli, daftar kontur, indeks kontur yang akan digambar, dan warna serta ketebalan kontur sebagai masukan.
 
 Berikut alur penjelasan skrip tersebut:
 
