@@ -4,7 +4,7 @@ Countor, terjadinya pada piksel terhadap intensitasnya yang berhubungan dengan t
 
 Ini projek skrip pemrograman pada bahasa python terhadap library OpenCV, dimana sebuah citra gambar akan dideteksi bentuk gambar menggunakan Contour.
 
-Penjelasan Penyelesaian Contour di Skrip:
+Penjelasan penyelesaian Contour di Skrip:
 
 - Konversi citra menjadi citra biner. Hal ini dapat dilakukan dengan menggunakan teknik thresholding atau edge detection.
 
