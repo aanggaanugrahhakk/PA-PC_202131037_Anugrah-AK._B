@@ -51,6 +51,11 @@ Hasil akhir dari proses citra asli ke penemuan contour. Citra asli yang berasal 
 [Bukti Bagian ke-2 Pengambilan Citra Gambar](https://postimg.cc/CB4W83FB)
 
 [Hasil Contour dari Citra Gambar yang Digunakan](https://postimg.cc/Snz3d2Sp)
+
+## 🔗 Link Data Diri
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anugrahak)
+
+
 ## Authors
 
 - Anugrah AK. [@aanggaanugrahhakk](https://github.com/aanggaanugrahhakk)
